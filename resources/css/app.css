@@ -1,0 +1,29 @@
+.wrap-page {
+    min-height: 100vh;
+}
+
+i.fa-globe-americas {
+    font-size: 25px;
+}
+
+form {
+    position: relative;
+}
+
+button.btn.btn-primary {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.container {
+    margin-top: 20px;
+}
+
+nav.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 3;
+}
